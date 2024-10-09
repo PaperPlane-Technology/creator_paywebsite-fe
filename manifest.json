@@ -1,0 +1,35 @@
+{
+  "short_name": "CreatorPay",
+  "name": "CreatorPay - Use our Creators as Resellers and convert views to purchases !",
+  "description": "CreatorPay - Use our Creators as Resellers and convert views to purchases !",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 24x24",
+      "type": "image/x-icon"
+    },{
+      "src": "logox.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "logox.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "logox.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logox.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#00D32A",
+  "background_color": "#00D32A"
+}
